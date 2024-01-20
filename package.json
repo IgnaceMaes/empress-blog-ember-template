@@ -96,6 +96,9 @@
     "qunit-dom": "^1.6.0",
     "webpack": "^5.65.0"
   },
+  "overrides": {
+    "ember-cli-showdown": "^7.0.0"
+  },
   "engines": {
     "node": "12.* || 14.* || >= 16"
   },
